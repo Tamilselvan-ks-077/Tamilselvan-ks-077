@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hello there, I'm Tamilselvan 👋
 
-<!--
-**Tamilselvan-ks-077/Tamilselvan-ks-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cyber Security Student | Bug Bounty Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎯 Focused on Web Security & Bug Bounty  
+- 🔍 Learning API, Auth, IDOR testing  
+- 🧠 Exploring real-world vulnerabilities  
+- 📍 Based in Tamil Nadu  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+
+### 🔐 Cybersecurity
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange)
+![OWASP](https://img.shields.io/badge/OWASP-black)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-blue)
+
+---
+
+## 📚 Knowledge Areas
+
+- Authentication & Authorization  
+- OWASP Top 10  
+- Session Management  
+- Input Validation  
+
+---
+
+## 📂 Featured Projects
+
+### 🔍 ScanLite
+Lightweight web scanner for detecting:
+- XSS (reflection points)
+- SQL Injection (basic)
+- Headers issues  
+
+👉 Add your repo link here
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 yourmail@gmail.com  
+- 🐞 Bugcrowd / HackerOne (if any)
+
+---
