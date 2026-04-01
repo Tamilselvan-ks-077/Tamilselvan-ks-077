@@ -49,12 +49,6 @@ Lightweight web scanner for detecting:
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Tamilselvan-ks-077&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 tamilselvanks2312@gmail.com  
