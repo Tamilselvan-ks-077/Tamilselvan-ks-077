@@ -51,13 +51,13 @@ Lightweight web scanner for detecting:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tamilselvan-ks-077&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 yourmail@gmail.com  
-- 🐞 Bugcrowd / HackerOne (if any)
+- 📧 tamilselvanks2312@gmail.com  
+- 📖 linkedin.com/in/tamilselvan-cyber
 
 ---
