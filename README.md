@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Tamilselvan
 
-### 🔐 Cybersecurity Student • Ethical Bug Hunter • Python & Java Developer
+### 🔐 Cybersecurity Student | Ethical Bug Hunter | Python & Java Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Ethical+Bug+Hunter;Python+Developer;Java+Developer;SOC+%26+SIEM+Project+Developer;Always+Learning+Something+New..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Cybersecurity+Student;Ethical+Bug+Hunter;Python+Developer;Java+Developer;Building+LIMITLESS+2.0;Always+Learning+New+Things" />
 
 <br>
 
@@ -16,17 +16,17 @@
 <img src="https://img.shields.io/github/stars/Tamilselvan-ks-077?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/tamilselvan-cyber">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:tamilselvanks2312@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://linkedin.com/in/tamilselvan-cyber">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Tamilselvan-ks-077&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Tamilselvan-ks-077&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -36,15 +36,17 @@
 
 🎓 Cybersecurity Student from Tamil Nadu, India
 
-🔐 Passionate about Ethical Hacking & Bug Bounty
+🔐 Passionate about Ethical Hacking & Web Security
+
+🐞 Learning Bug Bounty Hunting
 
 💻 Python & Java Developer
 
-🌐 Learning Full Stack Development
+🖥️ Linux Enthusiast
 
-🛡️ Interested in SOC Operations & SIEM
+🛡️ Interested in SOC & SIEM
 
-📚 Currently improving DSA & Web Security
+📚 Learning Data Structures & Algorithms
 
 🎯 Goal: Become a Professional Cybersecurity Engineer
 
@@ -52,51 +54,26 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,postgres,linux,git,github,vscode,bash"/>
 
-### 🚀 Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,bootstrap"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### 💻 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash"/>
 </p>
 
 ---
 
 # 🛡 Cybersecurity Skills
 
-- Web Application Security
-- Bug Bounty Hunting
-- API Security Testing
-- Authentication Testing
-- Authorization Testing
-- OWASP Top 10
-- Burp Suite
-- Linux
-- Kali Linux
-- Reconnaissance
-- Vulnerability Assessment
+- 🔍 Web Application Security
+- 🐞 Bug Bounty Hunting
+- 🛡 OWASP Top 10
+- 🌐 API Security Testing
+- 🔐 Authentication Testing
+- 🔑 Authorization Testing
+- 📡 Reconnaissance
+- 🚨 Vulnerability Assessment
+- 💻 Kali Linux
+- 🛠 Burp Suite
 
 ---
 
@@ -104,82 +81,79 @@
 
 ## 🛡 LIMITLESS 2.0
 
-SOC + SIEM Dashboard
+A SOC & SIEM Dashboard for monitoring multiple systems.
 
-✅ Multiple System Monitoring
+### Features
 
-✅ Real-Time Alerts
-
-✅ Incident Logs
-
-✅ Security Analytics
-
-✅ Live Dashboard
+- 📊 Real-Time Dashboard
+- 🚨 Security Alerts
+- 📋 Incident Logs
+- 📈 Analytics
+- 💻 Multi-System Monitoring
 
 ---
 
-## 🔍 ScanLite
+## 🔎 ScanLite
 
-A Lightweight Web Vulnerability Scanner
+Lightweight Web Vulnerability Scanner
 
 - XSS Detection
 - SQL Injection Detection
-- Security Headers
+- Security Header Scanner
 - Report Generation
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-ks-077&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-ks-077&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Tamilselvan-ks-077&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamilselvan-ks-077&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tamilselvan-ks-077&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</div>
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Web Security
-- SOC Operations
-- SIEM Engineering
-- Threat Detection
-- Malware Analysis
-- Digital Forensics
-- Data Structures & Algorithms
+- 🛡 SOC Operations
+- 📊 SIEM Development
+- 🐞 Advanced Bug Bounty
+- 🌐 Web Security
+- 🐍 Python Automation
+- ☕ Java & DSA
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-ks-077&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-ks-077&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tamilselvan-ks-077&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamilselvan-ks-077&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tamilselvan-ks-077&theme=algolia&margin-w=10&no-frame=true"/>
+
+</p>
 
 ---
 
@@ -201,8 +175,10 @@ https://github.com/Tamilselvan-ks-077
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### 💙 "Hack to Learn • Learn to Secure"
+### 💙 *Hack • Learn • Secure*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 
 </div>
