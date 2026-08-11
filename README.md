@@ -48,7 +48,6 @@ goal: Become a Full Stack Software Engineer with Cybersecurity Expertise
 
 currently_building:
   - FreelanceHub (Django Marketplace)
-  - LIMITLESS 2.0 (SOC & SIEM Dashboard)
 ```
 
 - 💻 Passionate Full Stack Web Developer who loves building scalable web applications
