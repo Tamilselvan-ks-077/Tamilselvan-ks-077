@@ -176,8 +176,6 @@ Modern Personal Portfolio built with React.js
 
 `REST APIs`
 
-`FastAPI`
-
 `Docker`
 
 `PostgreSQL`
