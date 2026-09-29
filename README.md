@@ -1,106 +1,64 @@
-# Hi, I'm Tamilselvan 👋
-
-**Full Stack Web Developer | Cybersecurity Student**
-
-I'm a computer science student interested in building web applications and learning cybersecurity.
-
-I enjoy working with **React, Django, FastAPI, Python, Java, and PostgreSQL**, and I'm currently improving my skills in full-stack development, secure coding, and web application security.
+<h1 align="center">Hi, I'm Tamilselvan K S 👋</h1>
 
 ### About Me
 
-* 🎓 Studying Computer Science with a focus on Cybersecurity
-* 💻 Interested in Full Stack Web Development
-* 🔐 Learning Web Application Security and OWASP
-* 🐍 Working with Python and Django
-* ⚛️ Building applications with React.js
-* 🗄️ Working with PostgreSQL and REST APIs
-* 🐳 Learning Docker and deployment
-* 📚 Currently improving Java, DSA, and software development fundamentals
+I'm a Computer Science undergraduate focused on **Full Stack Web Development and Cybersecurity**, interested in building practical web applications and learning how to make them secure and reliable.
 
-### Tech I Use
+* Currently improving my skills in **Full Stack Development** and **Web Application Security**
+* Building applications using **React, Django, FastAPI, and PostgreSQL**
+* Learning **REST APIs, Docker, Secure Coding, and OWASP Top 10**
+* Open to **Full Stack Developer / Software Developer internships and opportunities .**
 
-**Languages**
+---
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+### Tech Stack
 
-**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,django,fastapi,postgres,mysql,git,github,docker,linux,vscode,postman" />
+</p>
 
-`React.js` `Tailwind CSS` `Vite`
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
 
-**Backend**
+---
 
-`Django` `FastAPI` `Node.js` `REST APIs`
+### Featured Projects
 
-**Database**
+| Project                                                            | Category      | Tech                      | Highlights                                                                             |
+| ------------------------------------------------------------------ | ------------- | ------------------------- | -------------------------------------------------------------------------------------- |
+| [FreelanceHub](https://github.com/Tamilselvan-ks-077/FreelanceHub) | Full Stack    | React, Django, PostgreSQL | Freelancer marketplace with authentication, profiles, bookings, messaging and invoices |
+| [LimitlessSOC](https://github.com/Tamilselvan-ks-077/LimitlessSOC) | Cybersecurity | React, Node.js, Docker    | SOC dashboard with security monitoring, CVE tracking, network scanning and analytics   |
 
-`PostgreSQL` `MySQL`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `Linux` `VS Code` `Postman`
-
-**Cybersecurity**
-
-`Burp Suite` `Nmap` `Wireshark` `Metasploit` `OWASP Top 10`
-
-### Projects
-
-#### FreelanceHub
-
-A full-stack freelancer marketplace built with **React, Django, and PostgreSQL**.
-
-* User authentication and profiles
-* Freelancer skills and portfolios
-* Search and filtering
-* Booking and project management
-* Invoices and messaging
-
-[View Project](https://github.com/Tamilselvan-ks-077/FreelanceHub)
-
-#### LimitlessSOC
-
-A security monitoring platform focused on **SOC and cybersecurity workflows**.
-
-* Security dashboard
-* Threat monitoring
-* CVE tracking
-* Network scanning
-* IP tracing
-* Security analytics
-
-[View Project](https://github.com/Tamilselvan-ks-077/LimitlessSOC)
+---
 
 ### Currently Learning
 
-* Full Stack Development
-* React.js
-* Django & REST APIs
-* PostgreSQL
-* Docker
-* Java & DSA
-* Secure Coding
-* OWASP Top 10
+* Full Stack Web Development
+* React.js & Modern JavaScript
+* Django & REST API Development
+* PostgreSQL & Database Design
+* Docker & Deployment
+* Java & Data Structures
 * Web Application Security
+* OWASP Top 10
 
-### GitHub
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-ks-077&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-ks-077&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-### Connect
+### Let's Connect
 
 <p align="left">
-  <a href="mailto:tamilselvanks2312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tamilselvan-cyber">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tamilselvan-cyber">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:[tamilselvanks2312@gmail.com](mailto:tamilselvanks2312@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Tamilselvan-ks-077">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-> Always learning, building, and improving.
