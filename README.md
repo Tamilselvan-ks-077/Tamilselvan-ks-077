@@ -34,18 +34,6 @@ I'm a Computer Science undergraduate focused on **Full Stack Web Development and
 | [FreelanceHub](https://github.com/Tamilselvan-ks-077/FreelanceHub) | Full Stack    | React, Django, PostgreSQL | Freelancer marketplace with authentication, profiles, bookings, messaging and invoices |
 | [LimitlessSOC](https://github.com/Tamilselvan-ks-077/LimitlessSOC) | Cybersecurity | React, Node.js, Docker    | SOC dashboard with security monitoring, CVE tracking, network scanning and analytics   |
 
----
-
-### Currently Learning
-
-* Full Stack Web Development
-* React.js & Modern JavaScript
-* Django & REST API Development
-* PostgreSQL & Database Design
-* Docker & Deployment
-* Java & Data Structures
-* Web Application Security
-* OWASP Top 10
 
 ---
 
